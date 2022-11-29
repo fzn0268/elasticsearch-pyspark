@@ -1,5 +1,7 @@
 import java.nio.file.Files
 
+organization := "fzn.project.bigdata.spark"
+
 name := "elasticsearch-pyspark-30"
 
 version := "1.0-SNAPSHOT"
